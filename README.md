@@ -4,7 +4,7 @@ Currently completing my MSc at UCL (Computer Graphics, Vision & Imaging),
 working on Visual SLAM, LiDAR mapping, real-time ML pipelines, and 
 multi-modal VR research for my thesis.
 
-4.5+ years of commercial experience shipping production systems — distributed 
+4.5+ years of commercial experience shipping production systems such as distributed 
 LiDAR servers, agentic LLM pipelines, 3D simulation platforms, and 
 real-time computer vision.
 
